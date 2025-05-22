@@ -1,6 +1,6 @@
 # 💰 Project Cost Tracker
 
-![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yNnRlY2Z5dWl6Z3RlZzB6Y2V6ZHF5ZzJ6eGZ6eGZ6eGZ6eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/your-demo-gif-url.gif)
+![Demo GIF](https://github.com/Ujjwal0Singh/Project-cost-tracker/blob/main/Screenshot%202025-05-22%20182830.png?raw=true)
 
 A sleek, animated dashboard to track project expenses with Firebase integration. Features real-time updates, user authentication, and delightful UI animations.
 
